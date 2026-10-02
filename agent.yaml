@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: audit-log-retention-checker
+version: 0.1.0
+description: "Checks declared audit log retention, integrity review cadence, and export evidence."
+skills:
+  - audit-log-retention-checker-skill
+tools:
+  - audit-audit-log-retention-checker
+tags:
+  - audit-readiness
+  - evidence-driven

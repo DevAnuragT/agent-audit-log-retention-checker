@@ -1,0 +1,5 @@
+{
+  "retention_days": 365,
+  "days_since_integrity_check": 7,
+  "export_evidence": "archive-manifest-2026-09"
+}
